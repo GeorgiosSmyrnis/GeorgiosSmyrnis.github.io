@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A link to my CV can be found [here](https://github.com/GeorgiosSmyrnis/GeorgiosSmyrnis.github.io/files/smyrnis_cv.pdf).
+A link to my CV can be found [here](https://georgiossmyrnis.github.io/files/smyrnis_cv.pdf).
 
 <!-- Education
 ======
