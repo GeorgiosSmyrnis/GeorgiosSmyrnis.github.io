@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Georgios Smyrnis, and I am a second year PhD student at The University of Texas at Austin. I am advised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
+My name is Georgios Smyrnis, and I am a second year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
 
 My work lies in the intersection of theoretical and applied aspects of machine learning. My most recent topics of interest include contrastive learning and inverse problems. I have also worked on the application of tropical algebra and geometry in the study of neural networks.
 
