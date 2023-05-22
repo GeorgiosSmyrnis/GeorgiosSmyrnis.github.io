@@ -14,6 +14,10 @@ My work lies in the intersection of theoretical and applied aspects of machine l
 
 In 2020, I graduated with my Diploma in Electrical and Computer Engineering, from the National Technical University of Athens. Under the supervision of Professor [Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm), I worked on the application of tropical algebra and geometry in the study of neural networks.
 
+During the summer of 2022, I was a student researcher at Google, in Mountain View, California.
+
+I am also the proud recipient of a scholarship from the Onassis Foundation, for the support of my doctorate studies.
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
