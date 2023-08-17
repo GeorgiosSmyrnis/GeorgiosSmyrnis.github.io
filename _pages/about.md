@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Georgios Smyrnis, and I am a third year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
+My name is Georgios Smyrnis, and I am a fourth year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
 
 My work lies in the intersection of theoretical and applied aspects of machine learning. My topics of interest include contrastive learning and self-supervision, with applications to the fields of distillation and inverse problems. Recently, I have also worked on the field of creation of large-scale datasets, for the training of foundation models.
 
