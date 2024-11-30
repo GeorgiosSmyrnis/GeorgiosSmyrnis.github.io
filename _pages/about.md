@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Georgios Smyrnis, and I am a fourth year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
+My name is Georgios Smyrnis, and I am a fifth year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
 
 My work lies in the intersection of theoretical and applied aspects of machine learning. My topics of interest include contrastive learning and self-supervision, with applications to the fields of distillation and inverse problems. Recently, I have also worked on the field of creation of large-scale datasets, for the training of foundation models.
 
 In 2020, I graduated with my Diploma in Electrical and Computer Engineering, from the National Technical University of Athens. Under the supervision of Professor [Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm), I worked on the application of tropical algebra and geometry in the study of neural networks.
 
-During the summer of 2022, I was a student researcher at Google, in Mountain View, California.
+During the summer of 2022, I was a student researcher at Google, in Mountain View, California. During the summer of 2024, I was an intern at Toyota Research Institute, in Los Altos, California.
 
 I am also the proud recipient of a scholarship from the Onassis Foundation, for the support of my doctorate studies.
 
