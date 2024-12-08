@@ -5,7 +5,7 @@ permalink: /publication/dclm
 excerpt: ''
 date: December 2021
 venue: 'NeurIPS 2021'
-authors: 'Sriram Ravula*, Georgios Smyrnis*, Matt Jordan, Alexandros G. Dimakis'
+authors: 'Sriram Ravula*, <strong>Georgios Smyrnis</strong>*, Matt Jordan, Alexandros G. Dimakis'
 paperurl: https://arxiv.org/abs/2110.07439
 code: https://github.com/Sriram-Ravula/Contrastive-Inversion
 ---
