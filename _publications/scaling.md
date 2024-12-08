@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dclm
 excerpt: ''
 date: March 2024
-venue: 'ArXiv Preprint'
+venue: 'ArXiv Preprint: 2403.08540'
 authors: 'Samir Yitzhak Gadre, <strong>Georgios Smyrnis</strong>, Vaishaal Shankar, Suchin Gururangan, Mitchell Wortsman, Rulin Shao, Jean Mercat, Alex Fang, Jeffrey Li, Sedrick Keh, Rui Xin, Marianna Nezhurina, Igor Vasiljevic, Jenia Jitsev, Luca Soldaini, Alexandros G. Dimakis, Gabriel Ilharco, Pang Wei Koh, Shuran Song, Thomas Kollar, Yair Carmon, Achal Dave, Reinhard Heckel, Niklas Muennighoff, Ludwig Schmidt'
 paperurl: https://arxiv.org/abs/2403.08540
 code: https://github.com/mlfoundations/scaling
