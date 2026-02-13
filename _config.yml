@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Georgios Smyrnis"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at The University of Texas at Austin"
-  location         : "Austin, Texas"
+  bio              : 
+  location         : "San Francisco, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MmJ5U88AAAAJ"
