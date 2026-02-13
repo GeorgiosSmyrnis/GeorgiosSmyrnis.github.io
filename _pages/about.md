@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Georgios Smyrnis, and I am a fifth year PhD student at The University of Texas at Austin. I am supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/).
+My name is Georgios Smyrnis, and I am a Member of Technical Staff at Anthropic.
 
-My research is focused on training large scale models in both the vision and language domains. Most recently, I have been working on constructing datasets to train large image-text and large language models, as part of the [DataComp team](https://www.datacomp.ai/). I am also interested in contrastive learning and self-supervision, in the context of training these large scale models.
+Previously, I was a PhD student at The University of Texas at Austin, supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/). My research was focused on training large scale models in both the vision and language domains. As a student, I worked on constructing datasets to train large image-text and large language models, as part of the [DataComp team](https://www.datacomp.ai/). I received my PhD during the summer of 2025.
 
 In 2020, I graduated with my Diploma in Electrical and Computer Engineering, from the National Technical University of Athens. Under the supervision of Professor [Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm), I worked on the application of tropical algebra and geometry in the study of neural networks.
 
