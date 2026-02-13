@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Georgios Smyrnis, and I am a Member of Technical Staff at Anthropic.
+My name is Georgios Smyrnis, and I am currently a Member of Technical Staff at Anthropic.
 
 Previously, I was a PhD student at The University of Texas at Austin, supervised by Professor [Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/). My research was focused on training large scale models in both the vision and language domains. As a student, I worked on constructing datasets to train large image-text and large language models, as part of the [DataComp team](https://www.datacomp.ai/). I received my PhD during the summer of 2025.
 
